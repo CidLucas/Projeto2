@@ -1,4 +1,4 @@
-# Projeto2
+# Dashboard Arbitragem
 
 Dashboard for price gaps visualization for arbitration operations.
 
